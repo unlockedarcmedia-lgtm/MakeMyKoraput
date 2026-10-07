@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://makemykoraput.com/sitemap.xml
